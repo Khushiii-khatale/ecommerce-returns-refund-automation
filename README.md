@@ -1,6 +1,6 @@
 # ecommerce-returns-refund-automation
 
-Salesforce Project – Automating Returns & Refunds for E-commerce  
+Salesforce Project 
 
 ---
 
